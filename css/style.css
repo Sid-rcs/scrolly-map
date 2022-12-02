@@ -1,5 +1,13 @@
+@font-face {
+    font-family: Espana;
+    src: url(Marcellus-Regular.ttf);
+  }
+
+h1{
+    font-family: Espana;
+}
 body{
-    font-family: 'latin-wide-regular', serif;
+    font-family: Espana;
 }
 p{
     font-size:20px;
